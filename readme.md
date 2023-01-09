@@ -11,9 +11,9 @@
 
 - 👯 I’m looking to collaborate on **cybersecurity related projects**
 
-- 🤝 I’m looking for help with **Audit and Compliance and Penetration Testing of your organization and Cyber Security Awareness**
+- 🤝 I’m available for freelance projects :  **Audit and Compliance and Penetration Testing and Cyber Security Awareness for your organization **
 
-- 👨‍💻 All of my projects are available at [www.hassanashiq.com](www.hassanashiq.com)
+- 👨‍💻 All of my projects are available at [www.hassanashiq.com](www.hassanashiq.com) { :target="_blank" } 
 
 - 📝 I regularly write articles on [www.linkedin.com/in/hassan-ashiq](www.linkedin.com/in/hassan-ashiq)
 
@@ -23,7 +23,7 @@
 
 - 📄 Know about my experiences [www.linkedin.com/in/hassan-ashiq](www.linkedin.com/in/hassan-ashiq)
 
-- ⚡ Fun fact **Extremely passionate about Cooking, Gardening and Bike Tours**
+- ⚡ Fun Facts : **Extremely passionate about Cooking, Gardening and Bike Tours**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
