@@ -12,7 +12,7 @@
 
 - 🤝 I’m available for freelance projects on :  **Audit and Compliance and Penetration Testing and Cyber Security Awareness for your organization **
 
-- 👨‍💻 All of my projects are available at <a href="https://www.hassanashiq.com/">hassanashiq.com</a> 
+- 👨‍💻 All of my projects are available at <a href="https://www.hassanashiq.com/ target="_blank ">hassanashiq.com</a>
 
 - 📝 I regularly write articles on <a href="www.linkedin.com/in/hassan-ashiq">Hassan Ashiq's LinkedIn</a>
 
