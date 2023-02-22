@@ -29,7 +29,7 @@
 
 <div align='center'>
 <h3> TryHackMe Badge :</h3>
-<img src="https://tryhackme-badges.s3.amazonaws.com/hassanashiq.png" alt="TryHackMe" href="www.tryhackme.com/p/hassanashiq">
+<a href="www.tryhackme.com/p/hassanashiq"> <img src="https://tryhackme-badges.s3.amazonaws.com/hassanashiq.png" alt="TryHackMe" > </a>
 </div>
 
 <hr size="2" width="100%" color="white">  
